@@ -45,6 +45,18 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+/* IMAGES */
+
+.stretch {
+  height: 100%;
+}
+
+#background {
+    text-align: center;
+    vertical-align: middle;
+    width: ...;
+    height: ...;
+}
 
 /* LAYOUT STYLES */
 body {
