@@ -3,23 +3,34 @@ body {
 }
 
 #box {
+    /*top: 25%;
+    left: 25%;*/
+    height: 160px;
+    width: 320px;
+    margin: auto;
     position: absolute;
-    top: 25%;
-    left: 25%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow: visible;
 }
 
 #box h1 {
     font-size: 50px;
+    margin-top: 10px;
 }
 
 #box h4 {
     font-style: italic;
     color: #fff;
-    padding-left: 16px;
+}
+
+#box p {
+    margin-bottom: 5px;
 }
 
 .contact, .contact a {
-    padding-top: 16px;
     color: #eee;
     font-style: italic;
     font-size: 16px;
