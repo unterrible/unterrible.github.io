@@ -9,22 +9,22 @@ body {
 }
 
 #box h1 {
-    font-size: 42px;
+    font-size: 50px;
 }
 
-#box h5 {
+#box h4 {
     font-style: italic;
     color: #fff;
     padding-left: 16px;
 }
 
-.contact {
+.contact, .contact a {
     padding-top: 16px;
     color: #eee;
     font-style: italic;
-    font-size: 110%;
+    font-size: 16px;
 }
 
-.contact span {
+.contact i {
     padding-right: 6px;
 }
